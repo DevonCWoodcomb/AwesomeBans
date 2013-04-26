@@ -10,7 +10,7 @@ import lombok.Getter;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-
+//This is a test2
 public final class AwesomeBans extends JavaPlugin
 {
 	private Logger log = Logger.getLogger("Minecraft");
