@@ -1,0 +1,19 @@
+#MySQL setting changes require a restart
+MySQL:
+  Host: localhost
+  Port: 3306
+  Username: root
+  Password: password
+  Database: minecraft
+  TablePrefix: AwesomeBans
+ServerName: AwesomeServer
+Lives:
+  UseLives: true
+  DefaultLives: 1
+  BanDuration: 1d
+  ResetLives: 1
+  BuyURL: N/A
+Broadcast: true
+OverrideJoinMessages: true
+Formatting:
+  Prefix: "&2[&aAwesomeBans&2]"
